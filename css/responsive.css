@@ -1,0 +1,777 @@
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media screen and  (max-width: 320px) and (min-width: 0px) {
+    /*hero slider*/
+    .hero-content h1{
+        font-size: 25px;
+        line-height: 27px;
+    }
+
+    .hero-content-wrap-1{
+        height: 400px;
+    }
+
+    .typed-strings h1{
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .slider-bg-content .hero-image{
+        display: none;
+    }
+
+    .hero-action-btn a{
+        margin-bottom: 15px;
+    }
+
+    .custom-indicator .owl-dots{
+        left: 35%;
+    }
+
+    .hero-slider-section-two .section-shape{
+        position: relative;
+    }
+
+    .mobile-slider-area{
+        margin-top: 0;
+        top: -50px;
+    }
+    .mobile-slider{
+        top: 8px;
+    }
+    .mobile-slider-area img{
+        width: 68%;
+    }
+
+    /*promo section*/
+    .higlight-text{
+        display: none;
+    }
+
+    /*about us*/
+    .why-us-right-content-wrap{
+        padding-bottom: 0;
+    }
+    .why-us-contents{
+        margin-top: 0;
+    }
+
+    /*features*/
+    .feature-box.feature-box-lefticon, .feature-box.feature-box-righticon {
+        padding: 1.15em 1em;
+    }
+
+    .nav-center .nav-tabs > li > a span{
+        display: none;
+    }
+
+    /*video overly*/
+    .overlay{
+        padding: 100px 0;
+    }
+
+    /*pricing*/
+    .plan-description{
+        margin-left: 0;
+    }
+
+    /*download section*/
+    .download-section{
+        margin-top: 0;
+    }
+    .download-app-text{
+        padding: 50px 0;
+    }
+
+    .download-btn{
+        width: 100%;
+        padding: 5px 50px;
+    }
+
+}
+
+/* Custom, iPhone Retina */
+@media screen and (max-width: 360px) and (min-width: 321px) {
+    /*hero slider*/
+    .hero-content h1{
+        font-size: 25px;
+        line-height: 27px;
+    }
+
+    .hero-content-wrap-1{
+        height: 400px;
+    }
+
+    .typed-strings h1{
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .slider-bg-content .hero-image{
+        display: none;
+    }
+
+    .hero-action-btn a{
+        margin-bottom: 15px;
+    }
+
+    .custom-indicator .owl-dots{
+        left: 35%;
+    }
+
+    .hero-slider-section-two .section-shape{
+        position: relative;
+    }
+
+    .mobile-slider-area{
+        margin-top: 0;
+        top: -50px;
+    }
+    .mobile-slider{
+        top: 8px;
+    }
+    .mobile-slider-area img{
+        width: 68%;
+    }
+
+    /*promo section*/
+    .higlight-text{
+        display: none;
+    }
+
+    /*about us*/
+    .why-us-right-content-wrap{
+        padding-bottom: 0;
+    }
+    .why-us-contents{
+        margin-top: 0;
+    }
+
+    /*features*/
+    .feature-box.feature-box-lefticon, .feature-box.feature-box-righticon {
+        padding: 1.15em 1em;
+    }
+
+    .nav-center .nav-tabs > li > a span{
+        display: none;
+    }
+
+    /*video overly*/
+    .overlay{
+        padding: 100px 0;
+    }
+
+    /*pricing*/
+    .plan-description{
+        margin-left: 0;
+    }
+
+    /*download section*/
+    .download-section{
+        margin-top: 0;
+    }
+    .download-app-text{
+        padding: 50px 0;
+    }
+
+    .download-btn{
+        width: 100%;
+        padding: 5px 50px;
+    }
+}
+
+/* Custom, iPhone Retina */
+@media screen and (max-width: 375px) and (min-width: 361px) {
+    /*hero slider*/
+    .hero-content h1{
+        font-size: 25px;
+        line-height: 27px;
+    }
+
+    .hero-content-wrap-1{
+        height: 400px;
+    }
+
+    .typed-strings h1{
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .slider-bg-content .hero-image{
+        display: none;
+    }
+
+    .hero-action-btn a{
+        margin-bottom: 15px;
+    }
+
+    .custom-indicator .owl-dots{
+        left: 35%;
+    }
+
+    .hero-slider-section-two .section-shape{
+        position: relative;
+    }
+
+    .mobile-slider-area{
+        margin-top: 0;
+        top: -50px;
+    }
+    .mobile-slider{
+        top: 8px;
+    }
+    .mobile-slider-area img{
+        width: 68%;
+    }
+
+    /*promo section*/
+    .higlight-text{
+        display: none;
+    }
+
+    /*about us*/
+    .why-us-right-content-wrap{
+        padding-bottom: 0;
+    }
+    .why-us-contents{
+        margin-top: 0;
+    }
+
+    /*features*/
+    .feature-box.feature-box-lefticon, .feature-box.feature-box-righticon {
+        padding: 1.15em 1em;
+    }
+
+    .nav-center .nav-tabs > li > a span{
+        display: none;
+    }
+
+    /*video overly*/
+    .overlay{
+        padding: 100px 0;
+    }
+
+    /*pricing*/
+    .plan-description{
+        margin-left: 0;
+    }
+
+    /*download section*/
+    .download-section{
+        margin-top: 0;
+    }
+    .download-app-text{
+        padding: 50px 0;
+    }
+
+    .download-btn{
+        width: 100%;
+        padding: 5px 50px;
+    }
+}
+
+/* Extra Small Devices, Phones */
+@media screen and (max-width: 414px) and (min-width: 376px) {
+
+    /*hero slider*/
+    .hero-content h1{
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    .hero-content-wrap-1{
+        height: 400px;
+    }
+
+    .slider-bg-content .hero-image{
+        display: none;
+    }
+
+    .hero-action-btn a{
+        margin-bottom: 15px;
+    }
+
+    .custom-indicator .owl-dots{
+        left: 35%;
+    }
+
+    .hero-slider-section-two .section-shape{
+        position: relative;
+    }
+
+    .mobile-slider-area{
+        margin-top: 0;
+        top: -50px;
+    }
+    .mobile-slider{
+        top: 10px;
+    }
+    .mobile-slider-area img{
+        width: 68%;
+    }
+
+    /*promo section*/
+    .higlight-text{
+        display: none;
+    }
+
+    /*about us*/
+    .why-us-right-content-wrap{
+        padding-bottom: 0;
+    }
+    .why-us-contents{
+        margin-top: 0;
+    }
+
+    /*features*/
+    .feature-box.feature-box-lefticon, .feature-box.feature-box-righticon {
+        padding: 1.15em 1em;
+    }
+
+    .nav-center .nav-tabs > li > a span{
+        display: none;
+    }
+
+    /*video overly*/
+    .overlay{
+        padding: 100px 0;
+    }
+
+    /*pricing*/
+    .plan-description{
+        margin-left: 0;
+    }
+
+    /*download section*/
+    .download-section{
+        margin-top: 0;
+    }
+    .download-app-text{
+        padding: 50px 0;
+    }
+}
+
+/* Extra Small Devices, Phones */
+@media screen and (max-width: 480px) and (min-width: 415px) {
+    /*hero slider*/
+    .hero-content h1{
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    .hero-content-wrap-1{
+        height: 400px;
+    }
+
+    .slider-bg-content .hero-image{
+        display: none;
+    }
+
+    .hero-action-btn a{
+        margin-bottom: 15px;
+    }
+
+    .custom-indicator .owl-dots{
+        left: 35%;
+    }
+
+
+    .hero-slider-section-two .section-shape{
+        position: relative;
+    }
+
+    .mobile-slider-area{
+        margin-top: 0;
+        top: -50px;
+    }
+    .mobile-slider{
+        top: 11px;
+    }
+    .mobile-slider-area img{
+        width: 68%;
+    }
+
+    /*promo section*/
+    .higlight-text{
+        display: none;
+    }
+
+    /*about us*/
+    .why-us-right-content-wrap{
+        padding-bottom: 0;
+    }
+    .why-us-contents{
+        margin-top: 0;
+    }
+
+    /*features*/
+    .feature-box.feature-box-lefticon, .feature-box.feature-box-righticon {
+        padding: 1.15em 1em;
+    }
+
+    .nav-center .nav-tabs > li > a span{
+        display: none;
+    }
+
+    /*video overly*/
+    .overlay{
+        padding: 100px 0;
+    }
+
+    /*pricing*/
+    .plan-description{
+        margin-left: 0;
+    }
+
+    /*download section*/
+    .download-section{
+        margin-top: 0;
+    }
+    .download-app-text{
+        padding: 50px 0;
+    }
+}
+
+/* Extra Small Devices, Phones */
+@media screen and (max-width: 568px) and (min-width: 481px) {
+    /*hero slider*/
+    .hero-content h1{
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    .hero-content-wrap-1{
+        height: 400px;
+    }
+
+    .slider-bg-content .hero-image{
+        display: none;
+    }
+
+    .hero-action-btn a{
+        margin-bottom: 15px;
+    }
+
+    .custom-indicator .owl-dots{
+        left: 35%;
+    }
+
+
+    .hero-slider-section-two .section-shape{
+        position: relative;
+    }
+
+    .mobile-slider-area{
+        margin-top: 0;
+        top: -50px;
+    }
+    .mobile-slider{
+        top: 12px;
+    }
+    .mobile-slider-area img{
+        width: 68%;
+    }
+
+    /*promo section*/
+    .higlight-text{
+        display: none;
+    }
+
+    /*about us*/
+    .why-us-right-content-wrap{
+        padding-bottom: 0;
+    }
+    .why-us-contents{
+        margin-top: 0;
+    }
+
+    /*features*/
+    .feature-box.feature-box-lefticon, .feature-box.feature-box-righticon {
+        padding: 1.15em 1em;
+    }
+
+    .nav-center .nav-tabs > li > a span{
+        display: none;
+    }
+
+    /*video overly*/
+    .overlay{
+        padding: 100px 0;
+    }
+
+    /*pricing*/
+    .plan-description{
+        margin-left: 0;
+    }
+
+    /*download section*/
+    .download-section{
+        margin-top: 0;
+    }
+    .download-app-text{
+        padding: 50px 0;
+    }
+}
+
+/* Extra Small Devices, Phones */
+@media screen and (max-width: 640px) and (min-width: 569px) {
+    /*hero slider*/
+    .hero-content h1{
+        font-size: 35px;
+        line-height: 40px;
+    }
+
+    .hero-content-wrap-1{
+        height: 400px;
+    }
+
+    .slider-bg-content .hero-image{
+        display: none;
+    }
+
+    .hero-action-btn a{
+        margin-bottom: 15px;
+    }
+
+    .custom-indicator .owl-dots{
+        left: 35%;
+    }
+
+
+    .hero-slider-section-two .section-shape{
+        position: relative;
+    }
+
+
+    .mobile-slider-area{
+        margin-top: 0;
+        top: -50px;
+    }
+    .mobile-slider{
+        top: 15px;
+    }
+    .mobile-slider-area img{
+        width: 68%;
+    }
+
+    /*promo section*/
+    .higlight-text{
+        display: none;
+    }
+
+    /*about us*/
+    .why-us-right-content-wrap{
+        padding-bottom: 0;
+    }
+    .why-us-contents{
+        margin-top: 0;
+    }
+
+    /*features*/
+    .feature-box.feature-box-lefticon, .feature-box.feature-box-righticon {
+        padding: 1.15em 1em;
+    }
+
+    .nav-center .nav-tabs > li > a span{
+        display: none;
+    }
+
+    /*video overly*/
+    .overlay{
+        padding: 100px 0;
+    }
+
+    /*pricing*/
+    .plan-description{
+        margin-left: 0;
+    }
+
+    /*download section*/
+    .download-section{
+        margin-top: 0;
+    }
+    .download-app-text{
+        padding: 50px 0;
+    }
+}
+
+@media screen and (max-width: 684px) and (min-width: 641px){
+    .mobile-slider-area{
+        margin-top: 0;
+        top: -50px;
+    }
+    .mobile-slider{
+        top: 18px;
+    }
+    .mobile-slider-area img{
+        width: 67%;
+        z-index: 2;
+        position: relative;
+        display: block;
+    }
+}
+
+/* Small Devices, Tablets */
+@media screen and (max-width: 720px) and (min-width: 641px) {
+    /*hero slider*/
+    .hero-content h1{
+        font-size: 35px;
+        line-height: 40px;
+    }
+
+    .hero-content-wrap-1{
+        height: 400px;
+    }
+
+    .slider-bg-content .hero-image{
+        display: none;
+    }
+
+    .hero-action-btn a{
+        margin-bottom: 15px;
+    }
+
+    .custom-indicator .owl-dots{
+        left: 35%;
+    }
+
+
+    .hero-slider-section-two .section-shape{
+        position: relative;
+    }
+
+    .mobile-slider-area{
+        margin-top: 0;
+        top: -50px;
+    }
+    .mobile-slider{
+        top: 18px;
+    }
+    .mobile-slider-area img{
+        width: 67%;
+        z-index: 2;
+        position: relative;
+        display: block;
+    }
+
+    /*promo section*/
+    .higlight-text{
+        display: none;
+    }
+
+    /*about us*/
+    .why-us-right-content-wrap{
+        padding-bottom: 0;
+    }
+    .why-us-contents{
+        margin-top: 0;
+    }
+
+    /*features*/
+    .feature-box.feature-box-lefticon, .feature-box.feature-box-righticon {
+        padding: 1.15em 1em;
+    }
+
+    .nav-center .nav-tabs > li > a span{
+        display: none;
+    }
+
+    /*video overly*/
+    .overlay{
+        padding: 100px 0;
+    }
+
+    /*pricing*/
+    .plan-description{
+        margin-left: 0;
+    }
+
+    /*download section*/
+    .download-section{
+        margin-top: 0;
+    }
+    .download-app-text{
+        padding: 50px 0;
+    }
+}
+
+/* Small Devices, Tablets */
+@media screen and (max-width: 768px) and (min-width: 721px) {
+    .mobile-slider::before{
+        top: -8px
+    }
+    .mobile-slider-area{
+        margin-top: 0;
+        top: -50px;
+    }
+    .mobile-slider-area img {
+        width: 61%;
+        z-index: 2;
+        position: relative;
+    }
+}
+
+
+/* Medium Devices, Desktops */
+@media screen and (max-width: 992px) and (min-width: 769px) {
+    .mobile-slider{
+        top: 2px;
+    }
+    .mobile-slider::before{
+        top: -8px
+    }
+    .mobile-slider-area img{
+        width: 100%;
+        z-index: 2;
+        position: relative;
+    }
+
+}
+
+/* Large Devices, Wide Screens */
+@media screen and (max-width: 1024px) and (min-width: 993px) {
+    .mobile-slider{
+        top: 2px;
+    }
+    .mobile-slider::before{
+        top: -8px
+    }
+    .mobile-slider-area img{
+        width: 100%;
+        z-index: 2;
+        position: relative;
+    }
+
+}
+
+/* Large Devices, Wide Screens */
+@media screen and (max-width: 1080px) and (min-width: 1025px) {
+    .mobile-slider{
+        top: 2px;
+    }
+    .mobile-slider::before{
+        top: -8px
+    }
+    .mobile-slider-area img{
+        width: 100%;
+        z-index: 2;
+        position: relative;
+    }
+}
+
+/* Large Devices, Wide Screens */
+@media screen and (max-width: 1152px) and (min-width: 1081px) {
+    .mobile-slider{
+        top: 2px;
+    }
+    .mobile-slider::before{
+        top: -8px
+    }
+    .mobile-slider-area img{
+        width: 100%;
+        z-index: 2;
+        position: relative;
+    }
+}
